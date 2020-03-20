@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorBall</string>
+    <string name="play_button">Jouer</string>
+    <string name="level_button">Les niveaux</string>
+    <string name="shop_button">Magasin</string>
+    <string name="rule_button">Les règles</string>
+    <string name="quit_button">Quitter</string>
+    <string name="author">BOUKHEBZA Allan</string>
+    <string name="title_activity_level">LevelActivity</string>
+</resources>
